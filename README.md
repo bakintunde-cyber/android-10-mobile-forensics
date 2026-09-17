@@ -318,7 +318,7 @@ The original forensic image is **not included** in this repository.
 
 ## Disclaimer
 
-This project was completed in an academic cyber forensics environment using provided forensic evidence.
+This project was completed in an simulated cyber forensics environment using provided forensic evidence.
 
 The findings documented in this repository represent the artifacts identified during the examination and are presented for **educational and portfolio purposes**. They should not be interpreted as findings from a real-world criminal investigation.
 
